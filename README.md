@@ -1,6 +1,6 @@
 # Hey, I’m Sachin 👋
 
-I’m a second-year B.Tech student CSE at Amity University Madhya Pradesh, currently learning and building things in Artificial Intelligence and Machine Learning.
+I’m a second-year B.Tech CSE student at Amity University Madhya Pradesh, currently learning and building things in Artificial Intelligence and Machine Learning.
 
 Right now, I’m focused on improving my coding skills, working on a smart stock prediction project, and slowly turning ideas into real projects. I believe in getting 1% better every day — whether it’s in tech, fitness, or life in general.
 
