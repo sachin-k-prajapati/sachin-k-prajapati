@@ -8,7 +8,6 @@ Right now, I’m focused on improving my coding skills, working on a real-life p
 
 ### 🔍 What I'm into
 - AI/ML and deep learning
-- Coding smarter, not harder
 - Real-world projects that actually solve problems
 - Clean code, clean design, clean thinking
 
@@ -18,13 +17,6 @@ Right now, I’m focused on improving my coding skills, working on a real-life p
 - CNNs, LSTMs & Attention models
 - Reinforcement Learning for Smart Decision-Making
 - Data Structures & Algorithms (bit by bit, daily)
-
----
-
-### 🤝 Looking to collaborate on
-- ML-based student projects
-- Anything related to finance + AI
-- Ideas that are fun to build and useful to people
 
 ---
 
