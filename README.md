@@ -1,50 +1,58 @@
-# Hey, I’m Sachin 👋
+<!-- Typing SVG Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=480&lines=Welcome...;Engineer+in+Progress...;Building+with+Code+%26+Clarity.;AI+%7C+Full+Stack+%7C+Systems+Thinking..." alt="typing banner" />
+<p align="center">
+  <h2> SACHIN PRAJAPATI </h2>
+  <em>B.Tech CSE (AI/ML) <i>@ Amity University</i></em>
+</p>
 
-I’m a second-year B.Tech CSE student at Amity University Madhya Pradesh, currently learning and building things.
+<!--
+---
+### Domains of Focus
 
-Right now, I’m focused on improving my coding skills, working on a real-life problems, and slowly turning ideas into real projects. I believe in getting 1% better every day — whether it’s in tech, fitness, or life in general.
+```txt
+Artificial Intelligence     CNNs · RNNs · Attention · RL
+Full Stack Engineering      React · Node.js · MongoDB · Tailwind
+Systems Thinking            DSA · Code architecture · Logical building
+```
 
 ---
-
-### 🔍 What I'm into
-- AI/ML and deep learning
-- Real-world projects that actually solve problems
-- Clean code, clean design, clean thinking
-
----
-
-### 🧠 Currently learning
-- CNNs, LSTMs & Attention models
-- Reinforcement Learning for Smart Decision-Making
-- Data Structures & Algorithms (bit by bit, daily)
+```txt
+Languages:    Python · Java · C++ · JavaScript · Bash
+Frameworks:   Django · React · Node.js · TensorFlow · Express
+Databases:    MongoDB · MySQL · PostgreSQL
+Tools:        Git · VS Code · Jupyter · Linux
+```
 
 ---
+### GitHub Stats
+-->
+<!-- GitHub Stats - Minimal & Clean -->
+<p align="left">
+  <!-- Commit Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-k-prajapati&theme=github_dark" />
 
-### 📫 Reach me here
-- LinkedIn: [linkedin.com/in/sachinprajapati14823](https://linkedin.com/in/sachinprajapati14823)
-- Email: sachin.prajapati.sp@outlook.com
-- _**Portfolio:** Coming Soon_
+  <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-k-prajapati&layout=compact&langs_count=6&hide_title=true&theme=github_dark&hide_border=true&custom_title=Top+Languages" 
+      width="48%" 
+    />
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-k-prajapati&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+      width="48%" 
+    />
+  </div>
+</p>
+
 
 ---
-
-### 🙋‍♂️ A bit more about me
-- I code mostly in Python
-- I like solving real-life problems with logic and data
-- I’m working on myself — physically, mentally, and technically
-- I don't know everything — but I’m always learning
-
----
-
-### ⚒️ Tools I use
-- Python, TensorFlow, Keras
-- Pandas, NumPy, Matplotlib
-- Git, VS Code, Jupyter Notebook
-
----
-
-### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-k-prajapati&show_icons=true&theme=radical&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-k-prajapati&layout=compact&theme=radical)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sachin-k-prajapati" target="_blank" style="text-decoration:none;">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sachinprajapati.sp41@gmail.com" target="_blank" style="text-decoration:none;">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
