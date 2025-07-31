@@ -30,8 +30,6 @@ Tools:        Git · VS Code · Jupyter · Linux
 <p align="left">
   <!-- Commit Stats -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin-k-prajapati&theme=github_dark" />
-
-  <div align="left" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-k-prajapati&layout=compact&langs_count=6&hide_title=true&theme=github_dark&hide_border=true&custom_title=Top+Languages" 
       width="48%" 
@@ -46,7 +44,7 @@ Tools:        Git · VS Code · Jupyter · Linux
 
 ---
 <p align="left">
-  <a href="https://www.linkedin.com/in/sachin-k-prajapati" target="_blank" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/sachinprajapati14823" target="_blank" style="text-decoration:none;">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sachinprajapati.sp41@gmail.com" target="_blank" style="text-decoration:none;">
